@@ -1,0 +1,10 @@
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\obj\Debug\E_CommerceSystem.csprojAssemblyReference.cache
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\obj\Debug\E_CommerceSystem.csproj.CoreCompileInputs.cache
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\bin\Debug\E_CommerceSystem.exe.config
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\bin\Debug\E_CommerceSystem.exe
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\bin\Debug\E_CommerceSystem.pdb
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\bin\Debug\ConsoleTables.dll
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\bin\Debug\ConsoleTables.pdb
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\obj\Debug\E_CommerceSystem.csproj.CopyComplete
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\obj\Debug\E_CommerceSystem.exe
+D:\C#\C#course_DevSkill\E_CommerceSystem\E_CommerceSystem\obj\Debug\E_CommerceSystem.pdb
